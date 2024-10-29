@@ -1,0 +1,14 @@
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\bin\Debug\net7.0\DynamicProgrammingCSharp.exe
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\bin\Debug\net7.0\DynamicProgrammingCSharp.deps.json
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\bin\Debug\net7.0\DynamicProgrammingCSharp.runtimeconfig.json
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\bin\Debug\net7.0\DynamicProgrammingCSharp.dll
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\bin\Debug\net7.0\DynamicProgrammingCSharp.pdb
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\obj\Debug\net7.0\DynamicProgrammingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\obj\Debug\net7.0\DynamicProgrammingCSharp.AssemblyInfoInputs.cache
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\obj\Debug\net7.0\DynamicProgrammingCSharp.AssemblyInfo.cs
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\obj\Debug\net7.0\DynamicProgrammingCSharp.csproj.CoreCompileInputs.cache
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\obj\Debug\net7.0\DynamicProgrammingCSharp.dll
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\obj\Debug\net7.0\refint\DynamicProgrammingCSharp.dll
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\obj\Debug\net7.0\DynamicProgrammingCSharp.pdb
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\obj\Debug\net7.0\DynamicProgrammingCSharp.genruntimeconfig.cache
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\obj\Debug\net7.0\ref\DynamicProgrammingCSharp.dll
