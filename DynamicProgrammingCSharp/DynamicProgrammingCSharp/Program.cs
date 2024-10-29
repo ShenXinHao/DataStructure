@@ -62,3 +62,6 @@ void DP(int[] nums)
 
 DP(nums1);
 DP(nums3);
+
+HashSet<int> a = new HashSet<int>();
+a.con
