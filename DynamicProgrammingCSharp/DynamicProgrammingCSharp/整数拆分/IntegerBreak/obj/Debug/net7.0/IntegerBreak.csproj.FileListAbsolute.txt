@@ -1,0 +1,14 @@
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\bin\Debug\net7.0\IntegerBreak.exe
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\bin\Debug\net7.0\IntegerBreak.deps.json
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\bin\Debug\net7.0\IntegerBreak.runtimeconfig.json
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\bin\Debug\net7.0\IntegerBreak.dll
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\bin\Debug\net7.0\IntegerBreak.pdb
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\obj\Debug\net7.0\IntegerBreak.GeneratedMSBuildEditorConfig.editorconfig
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\obj\Debug\net7.0\IntegerBreak.AssemblyInfoInputs.cache
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\obj\Debug\net7.0\IntegerBreak.AssemblyInfo.cs
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\obj\Debug\net7.0\IntegerBreak.csproj.CoreCompileInputs.cache
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\obj\Debug\net7.0\IntegerBreak.dll
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\obj\Debug\net7.0\refint\IntegerBreak.dll
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\obj\Debug\net7.0\IntegerBreak.pdb
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\obj\Debug\net7.0\IntegerBreak.genruntimeconfig.cache
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\整数拆分\IntegerBreak\obj\Debug\net7.0\ref\IntegerBreak.dll
