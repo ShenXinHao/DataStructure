@@ -23,7 +23,7 @@
 那对于这个题来说，n个数字，背包容量为 sum/2, i个数字的重量为a[i], 价值也为a[i]
 
 1.确定dp[i]
-dp[j]是将0-i个数字随机放进容量为j的背包里，价值最大 ??????这里的
+dp[j]是容量为j的背包价值最大为多少 ??????这里的
 2.确定状态转移方程
 dp[j] = Max(dp[j - 1], dp[j - a[i]] + a[i])
 3.确定初值
@@ -36,3 +36,33 @@ dp[j] = Max(dp[j - 1], dp[j - a[i]] + a[i])
 
 
 */
+
+bool CanPartition(int[] nums)
+{
+
+        var sum = 0;
+       
+        for (int i = 0; i < nums.Length; i++)
+        { 
+                sum += nums[i];
+        }
+
+        if (sum % 2 != 0) return false; 
+        var dp = new int[sum];
+        for (int i = 0; i < nums.Length; i++)
+        {
+                for (int j = sum/2; j > 0; j--)
+                {
+                        if(j < nums[i])continue;
+                        dp[j] = Math.Max(dp[j], dp[j - nums[i]] + nums[i]);
+                        if (dp[j] == sum / 2)
+                        {
+                                return true;
+                        }
+                }
+        }
+        return false;
+}
+
+//Console.WriteLine(CanPartition(new []{1,5,11,5}));
+Console.WriteLine(CanPartition(new []{1,2,3,5}));  

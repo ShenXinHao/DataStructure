@@ -1,0 +1,15 @@
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\obj\Debug\net7.0\CanPartition.csproj.AssemblyReference.cache
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\obj\Debug\net7.0\CanPartition.GeneratedMSBuildEditorConfig.editorconfig
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\obj\Debug\net7.0\CanPartition.AssemblyInfoInputs.cache
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\obj\Debug\net7.0\CanPartition.AssemblyInfo.cs
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\obj\Debug\net7.0\CanPartition.csproj.CoreCompileInputs.cache
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\bin\Debug\net7.0\CanPartition.exe
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\bin\Debug\net7.0\CanPartition.deps.json
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\bin\Debug\net7.0\CanPartition.runtimeconfig.json
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\bin\Debug\net7.0\CanPartition.dll
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\bin\Debug\net7.0\CanPartition.pdb
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\obj\Debug\net7.0\CanPartition.dll
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\obj\Debug\net7.0\refint\CanPartition.dll
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\obj\Debug\net7.0\CanPartition.pdb
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\obj\Debug\net7.0\CanPartition.genruntimeconfig.cache
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\分割等和子集\CanPartition\obj\Debug\net7.0\ref\CanPartition.dll
