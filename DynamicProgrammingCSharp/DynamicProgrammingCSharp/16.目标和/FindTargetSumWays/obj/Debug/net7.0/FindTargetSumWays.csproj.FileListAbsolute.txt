@@ -13,3 +13,17 @@ E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicPro
 E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\FindTargetSumWays.pdb
 E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\FindTargetSumWays.genruntimeconfig.cache
 E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\ref\FindTargetSumWays.dll
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\bin\Debug\net7.0\FindTargetSumWays.exe
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\bin\Debug\net7.0\FindTargetSumWays.deps.json
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\bin\Debug\net7.0\FindTargetSumWays.runtimeconfig.json
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\bin\Debug\net7.0\FindTargetSumWays.dll
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\bin\Debug\net7.0\FindTargetSumWays.pdb
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\FindTargetSumWays.GeneratedMSBuildEditorConfig.editorconfig
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\FindTargetSumWays.AssemblyInfoInputs.cache
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\FindTargetSumWays.AssemblyInfo.cs
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\FindTargetSumWays.csproj.CoreCompileInputs.cache
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\FindTargetSumWays.dll
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\refint\FindTargetSumWays.dll
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\FindTargetSumWays.pdb
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\FindTargetSumWays.genruntimeconfig.cache
+G:\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\16.目标和\FindTargetSumWays\obj\Debug\net7.0\ref\FindTargetSumWays.dll
