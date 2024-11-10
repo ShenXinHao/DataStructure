@@ -1,0 +1,15 @@
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\bin\Debug\net7.0\FindMaxForm.exe
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\bin\Debug\net7.0\FindMaxForm.deps.json
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\bin\Debug\net7.0\FindMaxForm.runtimeconfig.json
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\bin\Debug\net7.0\FindMaxForm.dll
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\bin\Debug\net7.0\FindMaxForm.pdb
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\obj\Debug\net7.0\FindMaxForm.csproj.AssemblyReference.cache
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\obj\Debug\net7.0\FindMaxForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\obj\Debug\net7.0\FindMaxForm.AssemblyInfoInputs.cache
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\obj\Debug\net7.0\FindMaxForm.AssemblyInfo.cs
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\obj\Debug\net7.0\FindMaxForm.csproj.CoreCompileInputs.cache
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\obj\Debug\net7.0\FindMaxForm.dll
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\obj\Debug\net7.0\refint\FindMaxForm.dll
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\obj\Debug\net7.0\FindMaxForm.pdb
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\obj\Debug\net7.0\FindMaxForm.genruntimeconfig.cache
+E:\Applications\githubProjects\DataStructure\DynamicProgrammingCSharp\DynamicProgrammingCSharp\17.1和0\FindMaxForm\obj\Debug\net7.0\ref\FindMaxForm.dll

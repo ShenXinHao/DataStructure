@@ -1,0 +1,15 @@
+E:\Applications\githubProjects\DataStructure\数组\移除元素\bin\Debug\net7.0\移除元素.exe
+E:\Applications\githubProjects\DataStructure\数组\移除元素\bin\Debug\net7.0\移除元素.deps.json
+E:\Applications\githubProjects\DataStructure\数组\移除元素\bin\Debug\net7.0\移除元素.runtimeconfig.json
+E:\Applications\githubProjects\DataStructure\数组\移除元素\bin\Debug\net7.0\移除元素.dll
+E:\Applications\githubProjects\DataStructure\数组\移除元素\bin\Debug\net7.0\移除元素.pdb
+E:\Applications\githubProjects\DataStructure\数组\移除元素\obj\Debug\net7.0\移除元素.csproj.AssemblyReference.cache
+E:\Applications\githubProjects\DataStructure\数组\移除元素\obj\Debug\net7.0\移除元素.GeneratedMSBuildEditorConfig.editorconfig
+E:\Applications\githubProjects\DataStructure\数组\移除元素\obj\Debug\net7.0\移除元素.AssemblyInfoInputs.cache
+E:\Applications\githubProjects\DataStructure\数组\移除元素\obj\Debug\net7.0\移除元素.AssemblyInfo.cs
+E:\Applications\githubProjects\DataStructure\数组\移除元素\obj\Debug\net7.0\移除元素.csproj.CoreCompileInputs.cache
+E:\Applications\githubProjects\DataStructure\数组\移除元素\obj\Debug\net7.0\移除元素.dll
+E:\Applications\githubProjects\DataStructure\数组\移除元素\obj\Debug\net7.0\refint\移除元素.dll
+E:\Applications\githubProjects\DataStructure\数组\移除元素\obj\Debug\net7.0\移除元素.pdb
+E:\Applications\githubProjects\DataStructure\数组\移除元素\obj\Debug\net7.0\移除元素.genruntimeconfig.cache
+E:\Applications\githubProjects\DataStructure\数组\移除元素\obj\Debug\net7.0\ref\移除元素.dll

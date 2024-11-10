@@ -1,0 +1,15 @@
+E:\Applications\githubProjects\DataStructure\BinarySearch\bin\Debug\net7.0\BinarySearch.exe
+E:\Applications\githubProjects\DataStructure\BinarySearch\bin\Debug\net7.0\BinarySearch.deps.json
+E:\Applications\githubProjects\DataStructure\BinarySearch\bin\Debug\net7.0\BinarySearch.runtimeconfig.json
+E:\Applications\githubProjects\DataStructure\BinarySearch\bin\Debug\net7.0\BinarySearch.dll
+E:\Applications\githubProjects\DataStructure\BinarySearch\bin\Debug\net7.0\BinarySearch.pdb
+E:\Applications\githubProjects\DataStructure\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.AssemblyReference.cache
+E:\Applications\githubProjects\DataStructure\BinarySearch\obj\Debug\net7.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Applications\githubProjects\DataStructure\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfoInputs.cache
+E:\Applications\githubProjects\DataStructure\BinarySearch\obj\Debug\net7.0\BinarySearch.AssemblyInfo.cs
+E:\Applications\githubProjects\DataStructure\BinarySearch\obj\Debug\net7.0\BinarySearch.csproj.CoreCompileInputs.cache
+E:\Applications\githubProjects\DataStructure\BinarySearch\obj\Debug\net7.0\BinarySearch.dll
+E:\Applications\githubProjects\DataStructure\BinarySearch\obj\Debug\net7.0\refint\BinarySearch.dll
+E:\Applications\githubProjects\DataStructure\BinarySearch\obj\Debug\net7.0\BinarySearch.pdb
+E:\Applications\githubProjects\DataStructure\BinarySearch\obj\Debug\net7.0\BinarySearch.genruntimeconfig.cache
+E:\Applications\githubProjects\DataStructure\BinarySearch\obj\Debug\net7.0\ref\BinarySearch.dll

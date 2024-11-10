@@ -62,5 +62,23 @@ int DP(int[] nums)
     return dp[nums.Length];
 }
 
-Console.WriteLine(DP(nums));
-Console.WriteLine(DP(nums2));
+// Console.WriteLine(DP(nums));
+// Console.WriteLine(DP(nums2));
+
+int MinCostClimbingStairs(int[] cost) {
+    int x = 0, y = 0,min =  0;
+    for(int i = 2; i<= cost.Length; i ++)
+    {
+        min = Math.Min(x + cost[i - 1], y + cost[i - 2]);
+        y = x;
+        x = min;
+    }
+    
+    Console.WriteLine(x);
+    return x;
+}
+
+MinCostClimbingStairs(nums);
+MinCostClimbingStairs(nums2);
+
+
